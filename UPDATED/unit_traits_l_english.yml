@@ -1,34 +1,34 @@
 ﻿l_english:
- artillery_ratio_over_30:0 "Artillery ratio > §Y30%§!"
- artillery_officer:0 "Artillery Officer"
- artillery_officer_desc:0 "This officer believes that any problem can be solved with more shells."
+ artillery_ratio_over_30:0 "Коефіцієнт артилерії > §Y30%§!"
+ artillery_officer:0 "Офіцер артилерії"
+ artillery_officer_desc:0 "Цей офіцер вважає, що будь-яку проблему можна вирішити великою кількістю снарядів."
 
- militia_leader:0 "Militia Leader"
+ militia_leader:0 "Лідер ополченців"
  militia_leader_desc:0 ""
 
- syrian_interventionist:0 "Syrian Interventionist"
+ syrian_interventionist:0 "Сирійський інтервент"
  syrian_interventionist_desc:0 ""
 
- vdv_expert:0 "VDV Expert"
+ vdv_expert:0 "Експерт ДШВ"
  vdv_expert_desc:0 ""
 
- one_with_the_army:0 "One With The Army"
+ one_with_the_army:0 "Він - є армія"
  one_with_the_army_desc:0 ""
 
- kadyrovs_right_hand:0 "Kadyrov's Right Hand"
+ kadyrovs_right_hand:0 "Права рука Кадирова"
  kadyrovs_right_hand_desc:0 ""
 
- river_crossing_preparations:0 "River Crossing Preparations"
+ river_crossing_preparations:0 "Експерт за форсування річки"
  river_crossing_preparations_desc:0 ""
 
- POL_iraq_veteran:0 "Iraq Veteran"
- POL_iraq_veteran_desc:0 "This general picked up much experience in Iraq, and brings his knowledge from that war to Poland."
+ POL_iraq_veteran:0 "Ветеран Іраку"
+ POL_iraq_veteran_desc:0 "Цей генерал отримав багато досвіду в Іраку і приносить свої знання з тієї війни до Польщі."
 
- POL_afghanistan_veteran:0 "Afghanistan Veteran"
- POL_afghanistan_veteran_desc:0 "This general picked up much experience in Afghanistan, and brings his knowledge from that war to Poland."
+ POL_afghanistan_veteran:0 "Ветеран Афганістану"
+ POL_afghanistan_veteran_desc:0 "Цей генерал набрав багато досвіду в Афганістані, а свої знання з тієї війни приносить до Польщі."
 
- POL_kosovo_veteran:0 "Kosovo Veteran"
- POL_kosovo_veteran_desc:0 "This general fought alongside NATO peacekeepers in Kosovo, and brings his knowledge from that war to Poland."
+ POL_kosovo_veteran:0 "Ветеран Косово"
+ POL_kosovo_veteran_desc:0 "Цей генерал воював разом із миротворцями НАТО в Косово, а свої знання з тієї війни приносить до Польщі."
 
- LIT_january13th_defender:0 "January 13th Fighter"
- LIT_january13th_defender_desc:0 "This general defended and fought for Lithuania's freedom and independence in January-September 1991."
+ LIT_january13th_defender:0 "Борець 13 січня"
+ LIT_january13th_defender_desc:0 "Цей генерал захищав і боровся за свободу і незалежність Литви в січні-вересні 1991 року."
