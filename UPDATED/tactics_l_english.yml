@@ -35,7 +35,7 @@
  tactic_attacker_hb_attack:0 "Атака"
  tactic_attacker_hb_rush:0 "Перехід мосту"
  tactic_attacker_hb_storm:0 "Штурм мосту"
- tactic_defender_hb_hold:0 "Утримати міст"
+ tactic_defender_hb_hold:0 "Утримувати міст"
  tactic_defender_hb_skillful_defence:0 "Захистити міст"
  tactic_guerrilla_tactics:0 "Партизанська тактика"
  tactic_human_wave_tactics:0 "Масований наступ"
